@@ -68,9 +68,3 @@ If your password is categorized as Weak or Medium, consider the following improv
 - Add special characters.
 - Use a mix of uppercase and lowercase letters.
 - Include numbers.
-
-Feel free to customize the code and contribute to its enhancement!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
